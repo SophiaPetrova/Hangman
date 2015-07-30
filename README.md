@@ -1,2 +1,2 @@
-# Hangman
-I want to play a game.
+﻿# Hangman
+I want to play a game. Ok?
