@@ -1,2 +1,4 @@
 ﻿# Hangman
-I want to play a game.
+
+
+Hangman in Ruby on Rails.
